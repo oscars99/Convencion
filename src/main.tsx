@@ -307,7 +307,7 @@ function MobileNav({ isAdmin, view, navigate, requireAdmin }: {
 /* ─── Home Page ──────────────────────────────────── */
 function HomePage({ navigate }: { navigate: (v: View) => void }) {
   return (
-    <section className="hero">
+    <section className="hero" style={{ backgroundSize: "cover", backgroundPosition: "center top", minHeight: "100svh" }}>
       <div className="hero-card">
         <div className="hero-actions">
           <button className="btn btn-primary" onClick={() => navigate({ name: "buscar" })}>
@@ -550,7 +550,7 @@ function AdminLoginPage({ login }: { login: (password: string) => boolean }) {
         <button className="btn btn-primary btn-full" onClick={tryLogin} style={{ marginTop: 14 }}>
           Iniciar sesión
         </button>
-        <p className="auth-hint">Contraseña demo: <strong>admin123</strong></p>
+
       </div>
     </div>
   );
