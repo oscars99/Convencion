@@ -1,0 +1,1160 @@
+{
+  "version": "1.0",
+  "language": "es",
+  "time_format": "HH:mm:ss",
+  "turnos": {
+    "lobbies_rampas": [
+      "07:30:00",
+      "10:00:00",
+      "12:30:00",
+      "14:00:00",
+      "15:30:00"
+    ],
+    "escaleras_norte_sur": [
+      {
+        "label": "7:30 AM a 10:00 AM",
+        "start_time": "07:30:00",
+        "end_time": "10:00:00"
+      },
+      {
+        "label": "Lobby Principal",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "7:00 AM - 9:30 AM",
+        "start_time": "07:00:00",
+        "end_time": "09:30:00"
+      },
+      {
+        "label": "Entrada Jardin",
+        "start_time": null,
+        "end_time": null
+      },
+      {
+        "label": "6:30 AM - 8:20 AM",
+        "start_time": "06:30:00",
+        "end_time": "08:20:00"
+      }
+    ]
+  },
+  "people": [
+    {
+      "person_id": "person_alberto_fernandez",
+      "name": "Alberto Fernandez"
+    },
+    {
+      "person_id": "person_arteaga_xavier",
+      "name": "Arteaga (Xavier)"
+    },
+    {
+      "person_id": "person_belexis_perez",
+      "name": "Belexis Perez"
+    },
+    {
+      "person_id": "person_benito_moya",
+      "name": "Benito Moya"
+    },
+    {
+      "person_id": "person_betancourt_daniel",
+      "name": "Betancourt (Daniel)"
+    },
+    {
+      "person_id": "person_cabrera_adriel",
+      "name": "Cabrera (Adriel)"
+    },
+    {
+      "person_id": "person_caleb_perez",
+      "name": "Caleb Perez"
+    },
+    {
+      "person_id": "person_daniel_chile",
+      "name": "Daniel Chile"
+    },
+    {
+      "person_id": "person_daniel_gonzales",
+      "name": "Daniel Gonzales"
+    },
+    {
+      "person_id": "person_daniel_rivera",
+      "name": "Daniel Rivera"
+    },
+    {
+      "person_id": "person_david_stencer",
+      "name": "David Stencer"
+    },
+    {
+      "person_id": "person_denis_evelio",
+      "name": "Denis (Evelio)"
+    },
+    {
+      "person_id": "person_diaza_andy",
+      "name": "Diaza (Andy)"
+    },
+    {
+      "person_id": "person_disan_rivera",
+      "name": "Disan Rivera"
+    },
+    {
+      "person_id": "person_efrain_nunez",
+      "name": "Efrain Nunez"
+    },
+    {
+      "person_id": "person_eleazar_wong",
+      "name": "Eleazar Wong"
+    },
+    {
+      "person_id": "person_emilio_bencomo",
+      "name": "Emilio Bencomo"
+    },
+    {
+      "person_id": "person_erinaldo_alvarez",
+      "name": "Erinaldo Alvarez"
+    },
+    {
+      "person_id": "person_espinoza_moncada_edit",
+      "name": "Espinoza Moncada (Edit)"
+    },
+    {
+      "person_id": "person_felipe_rodriguez",
+      "name": "Felipe Rodriguez"
+    },
+    {
+      "person_id": "person_gabriel_machado",
+      "name": "Gabriel Machado"
+    },
+    {
+      "person_id": "person_gabriel_pierre",
+      "name": "Gabriel Pierre"
+    },
+    {
+      "person_id": "person_gallo_kevin",
+      "name": "Gallo (Kevin)"
+    },
+    {
+      "person_id": "person_gil_lerys",
+      "name": "Gil (Lerys)"
+    },
+    {
+      "person_id": "person_gonzalez_luis",
+      "name": "Gonzalez (Luis)"
+    },
+    {
+      "person_id": "person_guzman_henry",
+      "name": "Guzman (Henry)"
+    },
+    {
+      "person_id": "person_herrera_enmanuel",
+      "name": "Herrera (Enmanuel)"
+    },
+    {
+      "person_id": "person_ibzan_hernandez",
+      "name": "Ibzan Hernandez"
+    },
+    {
+      "person_id": "person_ismeray_garcia",
+      "name": "Ismeray Garcia"
+    },
+    {
+      "person_id": "person_israel_jaime",
+      "name": "Israel Jaime"
+    },
+    {
+      "person_id": "person_javiel_perez",
+      "name": "Javiel Perez"
+    },
+    {
+      "person_id": "person_javier_perez",
+      "name": "Javier Perez"
+    },
+    {
+      "person_id": "person_jerson_garcia",
+      "name": "Jerson Garcia"
+    },
+    {
+      "person_id": "person_joaquin_diaz",
+      "name": "Joaquin Diaz"
+    },
+    {
+      "person_id": "person_joel_perez",
+      "name": "Joel Perez"
+    },
+    {
+      "person_id": "person_joeses_aguilar",
+      "name": "Joeses Aguilar"
+    },
+    {
+      "person_id": "person_jonathan_pereira",
+      "name": "Jonathan Pereira"
+    },
+    {
+      "person_id": "person_jonathan_perez",
+      "name": "Jonathan Perez"
+    },
+    {
+      "person_id": "person_jorge_alvarado",
+      "name": "Jorge Alvarado"
+    },
+    {
+      "person_id": "person_jorge_haz",
+      "name": "Jorge Haz"
+    },
+    {
+      "person_id": "person_jose_de_los_santos",
+      "name": "Jose de los Santos"
+    },
+    {
+      "person_id": "person_marcelino_hernandez",
+      "name": "Marcelino Hernandez"
+    },
+    {
+      "person_id": "person_martinez_jeorgi",
+      "name": "Martinez (Jeorgi)"
+    },
+    {
+      "person_id": "person_medina_genaro",
+      "name": "Medina (Genaro)"
+    },
+    {
+      "person_id": "person_mercado_henrry",
+      "name": "Mercado (Henrry)"
+    },
+    {
+      "person_id": "person_moises_haz",
+      "name": "Moises Haz"
+    },
+    {
+      "person_id": "person_montoyo_micheal",
+      "name": "Montoyo (Micheal)"
+    },
+    {
+      "person_id": "person_nodarse_jesus",
+      "name": "Nodarse (Jesus)"
+    },
+    {
+      "person_id": "person_omar_duarte",
+      "name": "Omar Duarte"
+    },
+    {
+      "person_id": "person_orlando_hernandez",
+      "name": "Orlando Hernandez"
+    },
+    {
+      "person_id": "person_pascual_emilio",
+      "name": "Pascual (Emilio)"
+    },
+    {
+      "person_id": "person_paz_lucas",
+      "name": "Paz (Lucas)"
+    },
+    {
+      "person_id": "person_pelaez_elizardo",
+      "name": "Pelaez (Elizardo)"
+    },
+    {
+      "person_id": "person_quintana_bernardo_esly",
+      "name": "Quintana Bernardo (Esly)"
+    },
+    {
+      "person_id": "person_quintana_hernandez_diago",
+      "name": "Quintana Hernandez (Diago)"
+    },
+    {
+      "person_id": "person_reynaldo_rodriguez",
+      "name": "Reynaldo Rodriguez"
+    },
+    {
+      "person_id": "person_robert_carrion_avila",
+      "name": "Robert Carrion Avila"
+    },
+    {
+      "person_id": "person_roberto_baltodano",
+      "name": "Roberto Baltodano"
+    },
+    {
+      "person_id": "person_santos_david",
+      "name": "Santos (David)"
+    },
+    {
+      "person_id": "person_sarmiento_alexis",
+      "name": "Sarmiento (Alexis)"
+    },
+    {
+      "person_id": "person_segundo_zambrano",
+      "name": "Segundo Zambrano"
+    },
+    {
+      "person_id": "person_victor_manuel_gonzalez",
+      "name": "Victor Manuel Gonzalez"
+    },
+    {
+      "person_id": "person_villar_armando",
+      "name": "Villar (Armando)"
+    },
+    {
+      "person_id": "person_william_guerra",
+      "name": "William Guerra"
+    }
+  ],
+  "schedules": [
+    {
+      "schedule_id": "schedule_viernes",
+      "day": "viernes",
+      "areas": [
+        {
+          "area_name": "Lobby A",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_daniel_gonzales",
+              "person_name": "Daniel Gonzales"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_joel_perez",
+              "person_name": "Joel Perez"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_moises_haz",
+              "person_name": "Moises Haz"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_cabrera_adriel",
+              "person_name": "Cabrera (Adriel)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_pascual_emilio",
+              "person_name": "Pascual (Emilio)"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby B",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_emilio_bencomo",
+              "person_name": "Emilio Bencomo"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_jonathan_pereira",
+              "person_name": "Jonathan Pereira"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_omar_duarte",
+              "person_name": "Omar Duarte"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_diaza_andy",
+              "person_name": "Diaza (Andy)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_paz_lucas",
+              "person_name": "Paz (Lucas)"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby C",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_gabriel_machado",
+              "person_name": "Gabriel Machado"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_jorge_alvarado",
+              "person_name": "Jorge Alvarado"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_roberto_baltodano",
+              "person_name": "Roberto Baltodano"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_herrera_enmanuel",
+              "person_name": "Herrera (Enmanuel)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_quintana_bernardo_esly",
+              "person_name": "Quintana Bernardo (Esly)"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby D",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_gabriel_pierre",
+              "person_name": "Gabriel Pierre"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_jose_de_los_santos",
+              "person_name": "Jose de los Santos"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_betancourt_daniel",
+              "person_name": "Betancourt (Daniel)"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_martinez_jeorgi",
+              "person_name": "Martinez (Jeorgi)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_quintana_hernandez_diago",
+              "person_name": "Quintana Hernandez (Diago)"
+            }
+          ]
+        },
+        {
+          "area_name": "Rampa Norte",
+          "area_type": "rampa",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_erinaldo_alvarez",
+              "person_name": "Erinaldo Alvarez"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_javiel_perez",
+              "person_name": "Javiel Perez"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_gonzalez_luis",
+              "person_name": "Gonzalez (Luis)"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_montoyo_micheal",
+              "person_name": "Montoyo (Micheal)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_espinoza_moncada_edit",
+              "person_name": "Espinoza Moncada (Edit)"
+            }
+          ]
+        },
+        {
+          "area_name": "Rampa Sur",
+          "area_type": "rampa",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_israel_jaime",
+              "person_name": "Israel Jaime"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_robert_carrion_avila",
+              "person_name": "Robert Carrion Avila"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_mercado_henrry",
+              "person_name": "Mercado (Henrry)"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_villar_armando",
+              "person_name": "Villar (Armando)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_gallo_kevin",
+              "person_name": "Gallo (Kevin)"
+            }
+          ]
+        },
+        {
+          "area_name": "Escaleras Sur",
+          "area_type": "escaleras",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_daniel_chile",
+              "person_name": "Daniel Chile"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_benito_moya",
+              "person_name": "Benito Moya"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_eleazar_wong",
+              "person_name": "Eleazar Wong"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_orlando_hernandez",
+              "person_name": "Orlando Hernandez"
+            }
+          ]
+        },
+        {
+          "area_name": "Escaleras Norte",
+          "area_type": "escaleras",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_santos_david",
+              "person_name": "Santos (David)"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_ibzan_hernandez",
+              "person_name": "Ibzan Hernandez"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_victor_manuel_gonzalez",
+              "person_name": "Victor Manuel Gonzalez"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_caleb_perez",
+              "person_name": "Caleb Pérez"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby Entrada - Ancianos y Esposas Bienvenida",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:00:00",
+              "person_id": "person_denis_evelio",
+              "person_name": "Denis (Evelio)"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_gil_lerys",
+              "person_name": "Gil (Lerys)"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_guzman_henry",
+              "person_name": "Guzman (Henry)"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_medina_genaro",
+              "person_name": "Medina (Genaro)"
+            }
+          ]
+        },
+        {
+          "area_name": "Entrada Temprano",
+          "area_type": "entrada",
+          "shifts": [
+            {
+              "time": "06:30:00",
+              "person_id": "person_jonathan_perez",
+              "person_name": "Jonathan Pérez"
+            },
+            {
+              "time": "06:30:00",
+              "person_id": "person_jerson_garcia",
+              "person_name": "Jerson García"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schedule_id": "schedule_sabado",
+      "day": "sabado",
+      "source_note": "Two uploaded Saturday images appeared to contain the same schedule, so Saturday is stored once.",
+      "areas": [
+        {
+          "area_name": "Lobby A",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_pascual_emilio",
+              "person_name": "Pascual (Emilio)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_cabrera_adriel",
+              "person_name": "Cabrera (Adriel)"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_daniel_gonzales",
+              "person_name": "Daniel Gonzales"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_joel_perez",
+              "person_name": "Joel Perez"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_moises_haz",
+              "person_name": "Moises Haz"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby B",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_paz_lucas",
+              "person_name": "Paz (Lucas)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_diaza_andy",
+              "person_name": "Diaza (Andy)"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_emilio_bencomo",
+              "person_name": "Emilio Bencomo"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_jonathan_pereira",
+              "person_name": "Jonathan Pereira"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_omar_duarte",
+              "person_name": "Omar Duarte"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby C",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_quintana_bernardo_esly",
+              "person_name": "Quintana Bernardo (Esly)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_herrera_enmanuel",
+              "person_name": "Herrera (Enmanuel)"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_gabriel_machado",
+              "person_name": "Gabriel Machado"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_jorge_alvarado",
+              "person_name": "Jorge Alvarado"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_roberto_baltodano",
+              "person_name": "Roberto Baltodano"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby D",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_quintana_hernandez_diago",
+              "person_name": "Quintana Hernandez (Diago)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_martinez_jeorgi",
+              "person_name": "Martinez (Jeorgi)"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_gabriel_pierre",
+              "person_name": "Gabriel Pierre"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_jose_de_los_santos",
+              "person_name": "Jose de los Santos"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_betancourt_daniel",
+              "person_name": "Betancourt (Daniel)"
+            }
+          ]
+        },
+        {
+          "area_name": "Rampa Norte",
+          "area_type": "rampa",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_alberto_fernandez",
+              "person_name": "Alberto Fernandez"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_disan_rivera",
+              "person_name": "Disan Rivera"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_felipe_rodriguez",
+              "person_name": "Felipe Rodriguez"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_javier_perez",
+              "person_name": "Javier Perez"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_benito_moya",
+              "person_name": "Benito Moya"
+            }
+          ]
+        },
+        {
+          "area_name": "Rampa Sur",
+          "area_type": "rampa",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_daniel_rivera",
+              "person_name": "Daniel Rivera"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_efrain_nunez",
+              "person_name": "Efrain Nunez"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_joaquin_diaz",
+              "person_name": "Joaquin Diaz"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_pelaez_elizardo",
+              "person_name": "Pelaez (Elizardo)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_eleazar_wong",
+              "person_name": "Eleazar Wong"
+            }
+          ]
+        },
+        {
+          "area_name": "Escaleras Sur",
+          "area_type": "escaleras",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_david_stencer",
+              "person_name": "David Stencer"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_marcelino_hernandez",
+              "person_name": "Marcelino Hernandez"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_reynaldo_rodriguez",
+              "person_name": "Reynaldo Rodriguez"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_ismeray_garcia",
+              "person_name": "Ismeray Garcia"
+            }
+          ]
+        },
+        {
+          "area_name": "Escaleras Norte",
+          "area_type": "escaleras",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_erinaldo_alvarez",
+              "person_name": "Erinaldo Alvarez"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_israel_jaime",
+              "person_name": "Israel Jaime"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_javier_perez",
+              "person_name": "Javier Perez"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_robert_carrion_avila",
+              "person_name": "Robert Carrion Avila"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby Entrada - Ancianos y Esposas Bienvenida",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:00:00",
+              "person_id": "person_orlando_hernandez",
+              "person_name": "Orlando Hernandez"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_william_guerra",
+              "person_name": "William Guerra"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_belexis_perez",
+              "person_name": "Belexis Perez"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_joeses_aguilar",
+              "person_name": "Joeses Aguilar"
+            }
+          ]
+        },
+        {
+          "area_name": "Entrada Temprano",
+          "area_type": "entrada",
+          "shifts": [
+            {
+              "time": "06:30:00",
+              "person_id": "person_reynaldo_rodriguez",
+              "person_name": "Reynaldo Rodriguez"
+            },
+            {
+              "time": "06:30:00",
+              "person_id": "person_ismeray_garcia",
+              "person_name": "Ismeray Garcia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schedule_id": "schedule_domingo",
+      "day": "domingo",
+      "areas": [
+        {
+          "area_name": "Lobby A",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_daniel_rivera",
+              "person_name": "Daniel Rivera"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_daniel_gonzales",
+              "person_name": "Daniel Gonzales"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_santos_david",
+              "person_name": "Santos (David)"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_joaquin_diaz",
+              "person_name": "Joaquin Diaz"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_gabriel_machado",
+              "person_name": "Gabriel Machado"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby B",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_efrain_nunez",
+              "person_name": "Efrain Nunez"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_emilio_bencomo",
+              "person_name": "Emilio Bencomo"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_ibzan_hernandez",
+              "person_name": "Ibzan Hernandez"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_jorge_haz",
+              "person_name": "Jorge Haz"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_gabriel_pierre",
+              "person_name": "Gabriel Pierre"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby C",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_diaza_andy",
+              "person_name": "Diaza (Andy)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_roberto_baltodano",
+              "person_name": "Roberto Baltodano"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_victor_manuel_gonzalez",
+              "person_name": "Victor Manuel Gonzalez"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_arteaga_xavier",
+              "person_name": "Arteaga (Xavier)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_jorge_alvarado",
+              "person_name": "Jorge Alvarado"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby D",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_herrera_enmanuel",
+              "person_name": "Herrera (Enmanuel)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_betancourt_daniel",
+              "person_name": "Betancourt (Daniel)"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_caleb_perez",
+              "person_name": "Caleb Perez"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_denis_evelio",
+              "person_name": "Denis (Evelio)"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_jose_de_los_santos",
+              "person_name": "Jose de los Santos"
+            }
+          ]
+        },
+        {
+          "area_name": "Rampa Norte",
+          "area_type": "rampa",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_espinoza_moncada_edit",
+              "person_name": "Espinoza Moncada (Edit)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_gonzalez_luis",
+              "person_name": "Gonzalez (Luis)"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_david_stencer",
+              "person_name": "David Stencer"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_reynaldo_rodriguez",
+              "person_name": "Reynaldo Rodriguez"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_jonathan_perez",
+              "person_name": "Jonathan Perez"
+            }
+          ]
+        },
+        {
+          "area_name": "Rampa Sur",
+          "area_type": "rampa",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_gallo_kevin",
+              "person_name": "Gallo (Kevin)"
+            },
+            {
+              "time": "10:00:00",
+              "person_id": "person_mercado_henrry",
+              "person_name": "Mercado (Henrry)"
+            },
+            {
+              "time": "12:30:00",
+              "person_id": "person_marcelino_hernandez",
+              "person_name": "Marcelino Hernandez"
+            },
+            {
+              "time": "14:00:00",
+              "person_id": "person_ismeray_garcia",
+              "person_name": "Ismeray Garcia"
+            },
+            {
+              "time": "15:30:00",
+              "person_id": "person_jerson_garcia",
+              "person_name": "Jerson Garcia"
+            }
+          ]
+        },
+        {
+          "area_name": "Escaleras Sur",
+          "area_type": "escaleras",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_pascual_emilio",
+              "person_name": "Pascual (Emilio)"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_paz_lucas",
+              "person_name": "Paz (Lucas)"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_cabrera_adriel",
+              "person_name": "Cabrera (Adriel)"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_martinez_jeorgi",
+              "person_name": "Martinez (Jeorgi)"
+            }
+          ]
+        },
+        {
+          "area_name": "Escaleras Norte",
+          "area_type": "escaleras",
+          "shifts": [
+            {
+              "time": "07:30:00",
+              "person_id": "person_joel_perez",
+              "person_name": "Joel Perez"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_jonathan_pereira",
+              "person_name": "Jonathan Pereira"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_moises_haz",
+              "person_name": "Moises Haz"
+            },
+            {
+              "time": "07:30:00",
+              "person_id": "person_omar_duarte",
+              "person_name": "Omar Duarte"
+            }
+          ]
+        },
+        {
+          "area_name": "Lobby Entrada - Ancianos y Esposas Bienvenida",
+          "area_type": "lobby",
+          "shifts": [
+            {
+              "time": "07:00:00",
+              "person_id": "person_segundo_zambrano",
+              "person_name": "Segundo Zambrano"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_nodarse_jesus",
+              "person_name": "Nodarse (Jesus)"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_sarmiento_alexis",
+              "person_name": "Sarmiento (Alexis)"
+            },
+            {
+              "time": "07:00:00",
+              "person_id": "person_daniel_chile",
+              "person_name": "Daniel Chile"
+            }
+          ]
+        },
+        {
+          "area_name": "Entrada Temprano",
+          "area_type": "entrada",
+          "shifts": [
+            {
+              "time": "06:30:00",
+              "person_id": "person_erinaldo_alvarez",
+              "person_name": "Erinaldo Alvarez"
+            },
+            {
+              "time": "06:30:00",
+              "person_id": "person_israel_jaime",
+              "person_name": "Israel Jaime"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
